@@ -15,4 +15,9 @@ I'm looking to leverage my skills and knowledge to help your business grow while
 
 ### 🌟 What am I up to now?
 A little bit of everything! 🧑‍💻
-I'm currently learning little bit of C++, Java, and Python using Gaddis Start out With ... Series
+I'm currently building projects using JavaScripts and Pythons
+Please check out my Vanilla JavaScript Projects and test out each project using DEMO link.
+
+Best Regards,
+
+Nishan
