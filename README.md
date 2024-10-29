@@ -17,6 +17,7 @@ I'm looking to leverage my skills and knowledge to help your business grow while
 A little bit of everything! 🧑‍💻
 I'm currently building projects using JavaScripts and Pythons
 Please check out my Vanilla JavaScript Projects and test out each project using DEMO link.
+https://nissubba1.github.io/Vanilla_JavaScript_Project/
 
 Best Regards,
 
