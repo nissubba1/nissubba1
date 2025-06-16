@@ -10,6 +10,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nissubba1&layout=compact&theme=transparent)
 
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
 ## Skils
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 )
