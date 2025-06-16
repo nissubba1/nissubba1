@@ -9,6 +9,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nissubba1&layout=compact&theme=transparent)
 
+## Technical Skills
+Web Develpent
+Web Scapping
+Database Design
+Data Analysis
 
 ## Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
