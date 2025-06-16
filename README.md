@@ -9,6 +9,8 @@ Please check out my projects here are: https://www.nishansubba.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nissubba1&layout=compact)](https://github.com/nissubba1)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nissubba1&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nissubba1&layout=compact_theme=transparent)]
+
 
 ## 🌟 About Me
 
