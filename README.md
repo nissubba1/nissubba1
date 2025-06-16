@@ -1,9 +1,5 @@
 # Hi there, I'm Nishan! 👋
 
-Welcome to my GitHub personal profile! I'm thrilled you're here. 😊
-Please check out my projects here are: https://www.nishansubba.com
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.nishansubba.com)
 
