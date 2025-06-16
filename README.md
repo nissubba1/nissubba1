@@ -6,15 +6,13 @@
 [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.nishansubba.com)
 
 
-
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nissubba1&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nissubba1&layout=compact&theme=transparent)
 
-
+## Skils
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+)
 
 Thank you for visiting my profile! 😄 Don’t forget to check out my projects.
 You can my projects in my linked account @nissubba1
