@@ -42,4 +42,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Thank you for visiting my profile! 😄 Don’t forget to check out my projects.
-You can my projects in my linked account @nissubba1
