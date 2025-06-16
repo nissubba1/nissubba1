@@ -4,6 +4,9 @@ Welcome to my GitHub personal profile! I'm thrilled you're here. 😊
 Please check out my projects here are: https://www.nishansubba.com
 ---
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=nissubba1)](https://github.com/nissubba1)
+
+
 ## 🌟 About Me
 
 I'm a **tech enthusiast** with a **Bachelor of Science in Information Systems** and a passion for:
