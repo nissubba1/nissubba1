@@ -1,5 +1,6 @@
 # Hi there, I'm Nishan! 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nissubba1&theme=tokyonight-duo)](https://git.io/streak-stats)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://www.nishansubba.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishan-subba/)
 
