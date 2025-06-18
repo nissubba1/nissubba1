@@ -6,7 +6,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nissubba1&theme=tokyonight-duo)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nissubba1&show_icons=true&theme=transparent&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nissubba1&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nissubba1&layout=compact&theme=transparent@langs_count=8)
 
 ## 🛠️ Technical Skills
 - 🌐 Web Development
