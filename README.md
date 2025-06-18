@@ -6,7 +6,8 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nissubba1&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nissubba1)](https://git.io/streak-stats)
+
 <div>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nissubba1&show_icons=true&theme=default&rank_icon=github)
